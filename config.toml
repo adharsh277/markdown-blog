@@ -1,0 +1,5 @@
+baseURL = "https://adharsh277.github.io/markdown-blog/"
+languageCode = "en-us"
+title = "Captain Copper's Blog"
+theme = "hyde"
+
